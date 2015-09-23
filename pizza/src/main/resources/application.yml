@@ -1,0 +1,7 @@
+spring:
+   jpa:
+      hibernate:
+         ddl-auto: create-drop
+         show_sql: true
+server:
+   port: 8082

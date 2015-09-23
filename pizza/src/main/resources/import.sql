@@ -1,0 +1,10 @@
+insert into PIZZA (size, price, topping_price) values ('Small', 5.99, 0.49);
+insert into PIZZA (size, price, topping_price) values ('Medium', 6.99, 0.59);
+insert into PIZZA (size, price, topping_price) values ('Large', 7.99, 0.69);
+insert into TOPPING (name) values ('Cheese');
+insert into TOPPING (name) values ('Tomato');
+insert into TOPPING (name) values ('Mushrooms');
+insert into TOPPING (name) values ('Hot Chilli');
+insert into TOPPING (name) values ('Onions');
+insert into TOPPING (name) values ('Pineapple');
+insert into TOPPING (name) values ('Olives');
